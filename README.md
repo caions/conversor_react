@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Conversor de moedas
 
-Conversor de moeda utilizando reactjs
+Conversor de moedas utilizando reactjs
 
 ### `Api utilizada`
 
